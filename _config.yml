@@ -1,14 +1,14 @@
-layout_spectrum: 0.7202718525659293
-typography_spectrum: 0.38542354269884527
+layout_spectrum: 0.08290228922851384
+typography_spectrum: 0.963278558338061
 color:
-  brandStrength: 0.35236615990288556
-  lightness: 0.08394756284542382
-  saturation: 0.5098857870325446
-  rhythmicContrast: 0.023131560999900103
+  brandStrength: 0.8186658942140639
+  lightness: 0.7868516310118139
+  saturation: 0.13029199396260083
+  rhythmicContrast: 0.15660195774398744
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#00261C'
+    - '#044D29'
+    - '#168039'
+    - '#45BF55'
+    - '#96ED89'
 name: drinkingbird
